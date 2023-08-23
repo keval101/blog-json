@@ -31,7 +31,7 @@
             "thumbnail": "assets/images/slave.jpg",
            "tags": ["Social", "Drama"],
             "date": "Jun 19, 2023",
-            "images": []
+            "images": {}
         },
         {
             "title": "Paparazzi: Peering Behind the Glitz and Glamour",
@@ -55,7 +55,7 @@
             "thumbnail": "assets/images/paparazi.png",
             "tags": ["Social"],
             "date": "Jun 24, 2023",
-            "images": []
+            "images": {}
         },
         {
             "title": "Youth Ruining Our Religious Places",
@@ -76,7 +76,7 @@
             "thumbnail": "assets/images/youth-spoilling.webp",
             "tags": ["Social, Public"],
             "date": "Jun 24, 2023",
-            "images": []
+            "images": {}
         },
         {
             "title": "Unraveling the Telgi Stamp Paper Scam: A 30,000 Crore Conspiracy",
@@ -103,7 +103,37 @@
             "thumbnail": "assets/images/scam2003.jpg",
             "tags": ["Financial"],
             "date": "Aug 10, 2023",
-            "images": []
+            "images": {}
+        },
+        {
+            "title": "Chandrayaan-3: India's Next Giant Leap in Lunar Exploration",
+            "id": 5,
+            "intro": "India's space agency, the Indian Space Research Organisation (ISRO), has been making waves in the global space community with its Chandrayaan missions. The Chandrayaan series represents a significant step forward in lunar exploration, and if Chandrayaan-3 is successful, it promises to be another milestone in India's space journey.",
+            "paragraph": [
+                {
+                    "content": "<strong>Scientific Discoveries and Lunar Exploration:</strong><br>The primary objective of Chandrayaan missions is to study the Moon's surface, composition, and geological history. A successful Chandrayaan-3 mission would continue this mission, potentially leading to groundbreaking discoveries about the Moon's past and its relationship with Earth. This information could be pivotal in our understanding of lunar evolution and its relevance to Earth's history."
+                },
+                {
+                    "content": "<strong>Technological Advancements:</strong><br>Each Chandrayaan mission incorporates cutting-edge technology and innovation. A successful Chandrayaan-3 would showcase India's technological prowess in space exploration, potentially attracting international collaborations and partnerships. This can accelerate technological advancements not only in India but also globally."
+                },
+                {
+                    "content": "<strong>National Pride:</strong><br>Successful space missions instill a sense of national pride and accomplishment. Chandrayaan-3 would undoubtedly be a source of immense pride for India and its citizens. It would bolster the nation's reputation in the global space community."
+                },
+                {
+                    "content": "<strong>International Collaboration and Space Industry Growth:</strong><br>Space exploration often fosters collaboration between nations. A successful Chandrayaan-3 could lead to increased cooperation with other space agencies, such as NASA and ESA. This collaborative spirit benefits humanity as a whole, as we collectively work towards understanding our universe.<br>>Furthermore Chandrayaan missions stimulate the growth of the space industry. They drive the development of new technologies, promote commercial space activities, and create high-skilled job opportunities."
+                },
+                {
+                    "content": "<strong>Inspiration and Education:</strong><br>Chandrayaan missions have the power to inspire young minds. They pique interest in science, technology, engineering, and mathematics (STEM) disciplines, encouraging more students to pursue careers in these fields. This has a lasting positive impact on a nation's educational landscape."
+                }
+                ],
+            "conclusion": "The potential benefits are clear. India's continued commitment to lunar exploration not only advances scientific knowledge but also has far-reaching implications for technology, education, international collaboration, and national pride. If Chandrayaan-3 succeeds, it will undoubtedly be a giant leap forward in India's space exploration journey. Stay tuned for updates on this exciting mission!",
+            "thumbnail": "assets/images/chandrayan3.jpg",
+            "tags": ["Science"],
+            "date": "Aug 23, 2023",
+            "images": {
+                "path": "assets/images/chandrayan3-model.jpg",
+                "title": "Chandrayaan-3 Model"
+            }
         }
     ]
 }
