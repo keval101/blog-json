@@ -1,7 +1,7 @@
 {
     "blog": [
         {
-            "title": "Dark Side Of BTS | K-POP & Slave Contract Explained",
+            "title": "Unveiling the Dark Side of BTS & K-Pop: Exploring Slave Contracts",
             "id": 1,
             "intro": "In recent years, BTS has taken the world by storm, becoming one of the most successful K-pop groups globally. With their catchy music, synchronized dance routines, and dedicated fanbase, the septet has achieved immense fame and success. However, behind the glitz and glamour of the K-pop industry lies a darker side that often goes unnoticed. In this blog post, we will delve into the concept of \"slave contracts\" and shed light on the challenges faced by artists like BTS.",
             "paragraph": [
@@ -31,7 +31,11 @@
             "thumbnail": "https://i.imgur.com/wMx1sJq.jpg",
            "tags": ["Social", "Drama"],
             "date": "Jun 19, 2023",
-            "images": {}
+            "images": {},
+            "meta": {
+                "descriptions": "Discover the untold truth about the dark side of BTS and K-Pop in our eye-opening exploration of slave contracts. Uncover shocking revelations about the industry, shedding light on the hidden struggles faced by your favorite artists. Prepare to be informed and empowered as we delve deep into this captivating expose.",
+                "keywords": "BTS controversy, BTS dark side, K-pop industry, K-pop slave contract, BTS legal issues, dark side of K-pop, K-pop idol exploitation, K-pop trainee system, BTS hidden truth, BTS behind the scenes, K-pop idol contract, K-pop industry scandals"
+            }
         },
         {
             "title": "Paparazzi: Peering Behind the Glitz and Glamour",
@@ -55,7 +59,11 @@
             "thumbnail": "https://i.imgur.com/5uDyaZg.png",
             "tags": ["Social"],
             "date": "Jun 24, 2023",
-            "images": {}
+            "images": {},
+            "meta": {
+	                    "descriptions": "Get ready to delve into the captivating world of Paparazzi! Discover the untold stories, scandals, and secrets behind the glitz and glamour. This thrilling expose will leave you wanting more. Unveil the truth with our exclusive behind-the-scenes access. Let's embark on this exciting journey together!",
+ 	                    "keywords": "celebrity photography, paparazzi culture, behind the scenes of paparazzi, paparazzi industry, celebrity photojournalism, fame and privacy, stalking celebrities, tabloid photography, invasive photography, celebrity gossip, celebrity scandals, paparazzi ethics, paparazzi techniques, paparazzi photos, celebrity culture"
+                    }
         },
         {
             "title": "Youth Ruining Our Religious Places",
