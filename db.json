@@ -33,7 +33,7 @@
             "date": "Jun 19, 2023",
             "images": {},
             "meta": {
-                "descriptions": "Discover the untold truth about the dark side of BTS and K-Pop in our eye-opening exploration of slave contracts. Uncover shocking revelations about the industry, shedding light on the hidden struggles faced by your favorite artists. Prepare to be informed and empowered as we delve deep into this captivating expose.",
+                "description": "Discover the untold truth about the dark side of BTS and K-Pop in our eye-opening exploration of slave contracts. Uncover shocking revelations about the industry, shedding light on the hidden struggles faced by your favorite artists. Prepare to be informed and empowered as we delve deep into this captivating expose.",
                 "keywords": "BTS controversy, BTS dark side, K-pop industry, K-pop slave contract, BTS legal issues, dark side of K-pop, K-pop idol exploitation, K-pop trainee system, BTS hidden truth, BTS behind the scenes, K-pop idol contract, K-pop industry scandals"
             }
         },
@@ -61,9 +61,9 @@
             "date": "Jun 24, 2023",
             "images": {},
             "meta": {
-	                    "descriptions": "Get ready to delve into the captivating world of Paparazzi! Discover the untold stories, scandals, and secrets behind the glitz and glamour. This thrilling expose will leave you wanting more. Unveil the truth with our exclusive behind-the-scenes access. Let's embark on this exciting journey together!",
- 	                    "keywords": "celebrity photography, paparazzi culture, behind the scenes of paparazzi, paparazzi industry, celebrity photojournalism, fame and privacy, stalking celebrities, tabloid photography, invasive photography, celebrity gossip, celebrity scandals, paparazzi ethics, paparazzi techniques, paparazzi photos, celebrity culture"
-                    }
+	        "description": "Get ready to delve into the captivating world of Paparazzi! Discover the untold stories, scandals, and secrets behind the glitz and glamour. This thrilling expose will leave you wanting more. Unveil the truth with our exclusive behind-the-scenes access. Let's embark on this exciting journey together!",
+		"keywords": "celebrity photography, paparazzi culture, behind the scenes of paparazzi, paparazzi industry, celebrity photojournalism, fame and privacy, stalking celebrities, tabloid photography, invasive photography, celebrity gossip, celebrity scandals, paparazzi ethics, paparazzi techniques, paparazzi photos, celebrity culture"
+             }
         },
         {
             "title": "Youth Ruining Our Religious Places",
@@ -176,7 +176,7 @@
                 "title": "Sachin Tendulkar Congratulated R Praggnanandhaa"
             },
             "meta": {
-                "descriptions": "Discover the incredible achievement of Pragg, the youngest World Cup finalist and champion in history. At just 18 years old, Pragg made history by reaching the finals and winning the World Cup. Learn more about this talented player who was seeded number 31 and left a lasting impact on the world of sports.",
+                "description": "Discover the incredible achievement of Pragg, the youngest World Cup finalist and champion in history. At just 18 years old, Pragg made history by reaching the finals and winning the World Cup. Learn more about this talented player who was seeded number 31 and left a lasting impact on the world of sports.",
                 "keywords": "chess tournament, chess championship, international chess tournament, chess competition, chess event, chess grandmaster, chess player, chess strategy, chess tactics, world chess championship, chess world cup winner, chess runner up, chess title, indian chess players,FIDE World Cup, Magnus Carlsen, R Praggnanandhaa, Praggnanandhaa vs Carlsen Highlights"
             }
         }
