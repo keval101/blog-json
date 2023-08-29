@@ -34,8 +34,8 @@
       "isTrending": true,
       "images": {},
       "meta": {
-        "description": "Discover the untold truth about the dark side of BTS and K-Pop in our eye-opening exploration of slave contracts. Uncover shocking revelations about the industry, shedding light on the hidden struggles faced by your favorite artists. Prepare to be informed and empowered as we delve deep into this captivating expose.",
-        "keywords": "BTS controversy, BTS dark side, K-pop industry, K-pop slave contract, BTS legal issues, dark side of K-pop, K-pop idol exploitation, K-pop trainee system, BTS hidden truth, BTS behind the scenes, K-pop idol contract, K-pop industry scandals"
+        "description": "Uncover K-Pop's hidden truths - exploitative contracts and their impact on idols, revealing the dark side of this glitzy world",
+        "keywords": "K-Pop slave contracts, Dark side of K-Pop, Exploitative contracts in K-Pop, K-Pop industry secrets, K-Pop idols' rights, South Korean entertainment industry, K-Pop exploitation, K-Pop legal issues, Unveiling K-Pop contracts, K-Pop scandals"
       }
     },
     {
@@ -63,8 +63,8 @@
       "images": {},
       "isTrending": true,
       "meta": {
-        "description": "Get ready to delve into the captivating world of Paparazzi! Discover the untold stories, scandals, and secrets behind the glitz and glamour. This thrilling expose will leave you wanting more. Unveil the truth with our exclusive behind-the-scenes access. Let's embark on this exciting journey together!",
-        "keywords": "celebrity photography, paparazzi culture, behind the scenes of paparazzi, paparazzi industry, celebrity photojournalism, fame and privacy, stalking celebrities, tabloid photography, invasive photography, celebrity gossip, celebrity scandals, paparazzi ethics, paparazzi techniques, paparazzi photos, celebrity culture"
+        "description": "Explore the world of celebrity paparazzi, revealing the ethics, scandals, and privacy invasion in the glitzy realm of Hollywood and beyond.",
+        "keywords": "Celebrity paparazzi, Paparazzi culture, Celebrity privacy invasion, Paparazzi photography, Scandals in Hollywood, Gossip journalism, Tabloid media, Intrusive media coverage, Celebrities and photographers, Ethics of paparazzi"
       }
     },
     {
@@ -87,7 +87,11 @@
       "tags": ["Social"],
       "isTrending": false,
       "date": "Jun 24, 2023",
-      "images": {}
+      "images": {},
+      "meta": {
+        "description": "Explore the issue of youth-related vandalism in India's sacred sites and the urgent need to preserve our religious heritage while fostering religious tolerance.",
+        "keywords": "Youth and religious places, Religious site vandalism, Preservation of sacred sites, Religious heritage in India, Temple desecration, Protecting holy places, Youth involvement in religious activities, Religious tolerance in India, Historical temple conservation, Cultural heritage vandalism"
+      }
     },
     {
       "title": "Unraveling the Telgi Stamp Paper Scam: A 30,000 Crore Conspiracy",
@@ -115,7 +119,11 @@
       "tags": ["Financial"],
       "isTrending": true,
       "date": "Aug 10, 2023",
-      "images": {}
+      "images": {},
+      "meta": {
+        "description": "Explore the 30,000 crore Telgi Stamp Paper Scam, masterminded by Abdul Karim Telgi, its investigation, legal outcomes, and implications for fraud prevention in India.",
+        "keywords": "Telgi Stamp Paper Scam, Abdul Karim Telgi, Stamp paper fraud in India, Counterfeit stamp paper scandal, Telgi scam investigation, Judicial verdict on Telgi case, Financial fraud schemes, Indian financial scandals, Legal implications of stamp paper scam, Government anti-fraud measures"
+      }
     },
     {
       "title": "Chandrayaan-3: India's Next Giant Leap in Lunar Exploration",
@@ -146,6 +154,10 @@
       "images": {
         "path": "https://i.imgur.com/0qsMTpC.jpg",
         "title": "Chandrayaan-3 Model"
+      },
+      "meta": {
+        "description": "Explore Chandrayaan-3, India's lunar mission, and ISRO continues its remarkable journey in space exploration",
+        "keywords": "Chandrayaan-3 mission, Indian lunar exploration, ISRO lunar missions, India's moon mission, Space exploration updates, Lunar rover technology, India's space achievements, Lunar landing missions, ISRO's lunar plans, Moon exploration advancements"
       }
     },
     {
@@ -185,7 +197,7 @@
       "date": "Aug 24, 2023",
       "images": {},
       "meta": {
-        "description": "Discover the incredible achievement of Pragg, the youngest World Cup finalist and champion in history. At just 18 years old, Pragg made history by reaching the finals and winning the World Cup. Learn more about this talented player who was seeded number 31 and left a lasting impact on the world of sports.",
+        "description": "Meet Pragg, the youngest-ever World Cup champion at 18. Seeded 31st, his historic win is etched in sports history. Discover his incredible journey now!",
         "keywords": "chess tournament, chess championship, international chess tournament, chess competition, chess event, chess grandmaster, chess player, chess strategy, chess tactics, world chess championship, chess world cup winner, chess runner up, chess title, indian chess players,FIDE World Cup, Magnus Carlsen, R Praggnanandhaa, Praggnanandhaa vs Carlsen Highlights"
       }
     },
@@ -259,7 +271,7 @@
     "date": "Aug 28, 2023",
     "images": {},
     "meta": {
-        "description": "Neeraj Chopra, India's celebrated javelin thrower and Olympic gold medalist, continues to etch his name in the annals of athletics history. In a stunning display of skill and determination, Neeraj secured the gold medal in the Men's Javelin event at the World Athletics Championship 2023. This victory reaffirms his status as one of the world's premier javelin throwers and an inspiration to aspiring athletes. From humble beginnings in a small village to conquering the global stage, Neeraj's journey embodies the spirit of determination and excellence. Follow the latest triumphs of India's athletics champion as he continues to inspire and make the nation proud.",
+        "description": "Olympic gold medalist Neeraj Chopra adds World Athletics Championship gold in Men's Javelin 2023. An inspiring journey from a small village to global success.",
         "keywords": "Neeraj Chopra, World Athletics Championship 2023, Javelin Gold Medal, India's Pride in Athletics, Neeraj Chopra's Journey, Indian Javelin Thrower, Inspirational Sports Story, Olympic Gold Medalist, Athletics Champion, Neeraj Chopra's Latest Win, Track and Field, Sports Achievements, International Athletics, Indian Sports Icon, Sporting Excellence, World Record Holder, Neeraj Chopra Biography, Athlete Profile, Training and Technique, Sports Motivation, Success Stories, Sportsmanship Values, Haryana's Sporting Pride, Competitive Spirit, Neeraj Chopra News, Athletics Records, Athletic Competitions, Fitness and Training, Indian Olympians, Victory and Glory"
       }
 }
