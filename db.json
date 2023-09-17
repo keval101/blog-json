@@ -62,7 +62,7 @@
         "tags": ["Social"],
         "date": "Jun 24, 2023",
         "images": {},
-        "isTrending": true,
+        "isTrending": false,
         "meta": {
           "title": "Paparazzi: Unveiling Glamour's Hidden Realities",
           "description": "Explore the world of celebrity paparazzi, revealing the ethics, scandals, and privacy invasion in the glitzy realm of Hollywood and beyond.",
@@ -153,7 +153,7 @@
         "conclusion": "The potential benefits are clear. India's continued commitment to lunar exploration not only advances scientific knowledge but also has far-reaching implications for technology, education, international collaboration, and national pride. If Chandrayaan-3 succeeds, it will undoubtedly be a giant leap forward in India's space exploration journey. Stay tuned for updates on this exciting mission!",
         "thumbnail": "https://i.postimg.cc/25m0tKw9/i-CXo8pd-Imgur.webp",
         "tags": ["Science"],
-        "isTrending": true,
+        "isTrending": false,
         "date": "Aug 23, 2023",
         "images": {
           "path": "https://i.postimg.cc/qBjHx8kd/0qs-MTp-C-Imgur.webp",
@@ -543,7 +543,7 @@
           "tags": ["Sports"],
           "date": "Sep 4, 2023",
           "images": {},
-          "isTrending": true,
+          "isTrending": false,
           "meta": {
               "title": "2023 US Open Tennis Championships: Game, Set, Thrill",
               "description": "Stay informed with live scores, news, and highlights at the 2023 US Open Tennis Championships in NYC. Get tickets and plan your visit to witness top tennis stars in action.",
@@ -584,7 +584,7 @@
             "tags": ["Game"],
             "date": "Sep 5, 2023",
             "images": {},
-            "isTrending": true,
+            "isTrending": false,
             "meta": {
                 "title": "Free Fire Returns: With Enhanced Data Safety",
                 "description": "Free Fire India's relaunch with data safety, MS Dhoni as brand ambassador, and Yotta partnership promises to boost gaming and protect user data. #FreeFireIndia",
@@ -623,7 +623,7 @@
               },
               "date": "Sep 7, 2023",
               "images": {},
-              "isTrending": true,
+              "isTrending": false,
               "meta": {
                   "title": "The Nun 2: Unveiling The Devil's Daughter Horror",
                   "description": "Explore the spine-chilling world of 'The Nun 2' in our review. Unveiling the horrors, characters, and scares of this sequel, releasing on September 15, 2023.",
@@ -662,7 +662,7 @@
                 "tags": ["Sports"],
                 "date": "Sep 15, 2023",
                 "images": {},
-                "isTrending": true,
+                "isTrending": false,
                 "meta": {
                     "title": "India vs. Bangladesh: Don't Miss This Thriller!",
                     "description": "Catch the thrilling India vs. Bangladesh Asia Cup match on Sep 15, 03:00 PM. Get ready for cricket excitement!",
@@ -698,7 +698,52 @@
                       "description": "Explore the India vs. Sri Lanka clash at Asia Cup 2023: Key players, excitement, and action on the field. Don't miss it! #AsiaCup2023 #Cricket",
                       "keywords": "India vs. Sri Lanka, Asia Cup 2023, Cricket Rivalry, Match Predictions, Cricket Titans, Asia Cup History, Cricket Showdown, Tournament Predictions, Epic Cricket Clash, Cricket Blog"
                     }
-                }
+                },
+                {
+                  "title": "Narendra Modi's Birthday: Honoring India's Visionary Leader",
+                  "id": 19,
+                  "intro": "As the nation comes together to celebrate the 73rd birthday of Prime Minister Narendra Modi, it's not just a day of personal significance but also an opportunity to reflect upon the achievements and contributions of a leader who has left an indelible mark on the fabric of India's politics and development. Born on September 17, 1950, in Vadnagar, Gujarat, Narendra Modi has not only risen to become the Prime Minister but has also reshaped the trajectory of the nation in many ways.",
+                  "paragraph": [
+                    {
+                      "content": "<strong>The Journey of Narendra Modi:</strong><br>Narendra Modi's journey from a humble beginning in Vadnagar to the highest office in the land is nothing short of inspirational. He started his political career as a Rashtriya Swayamsevak Sangh (RSS) pracharak and later joined the Bharatiya Janata Party (BJP). His early years in politics saw him holding various positions within the party, including serving as the Chief Minister of Gujarat from 2001 to 2014."
+                    },
+                    {
+                      "content": "<strong>Economic Reforms and Growth:</strong><br> One of the key achievements of Prime Minister Modi has been his commitment to economic reforms. His government introduced several landmark policies, including the Goods and Services Tax (GST) and the 'Make in India' initiative, aimed at boosting domestic manufacturing. Under his leadership, India witnessed significant economic growth and improved ease of doing business."
+                    },
+                    {
+                      "content": "<strong>Swachh Bharat Abhiyan:</strong><br>Prime Minister Modi's Swachh Bharat Abhiyan, or Clean India Campaign, is a testament to his dedication to improving the cleanliness and sanitation of the country. The campaign, launched in 2014, has made substantial progress in building toilets, promoting cleanliness, and raising awareness about hygiene across India."
+                    },
+                    {
+                      "content": "<strong>Digital India:</strong><br>The Digital India initiative has brought technology to the forefront of governance. It has facilitated better access to government services, increased digital literacy, and promoted e-governance. The expansion of the JAM (Jan Dhan, Aadhaar, Mobile) trinity has enabled direct benefit transfers, reducing leakages and corruption."
+                    },
+                    {
+                      "content": "<strong>Jan Dhan Yojana:</strong><br>The Pradhan Mantri Jan Dhan Yojana aimed at financial inclusion, ensuring that every Indian had access to banking services. This initiative helped in reducing financial untouchability and increased access to formal financial institutions for millions."
+                    },
+                    {
+                      "content": "<strong>Foreign Policy:</strong><br>Under Prime Minister Modi's leadership, India's foreign policy underwent a significant transformation. He established strong ties with various nations, including the United States, Russia, and Israel, fostering strategic partnerships that have benefited India on multiple fronts."
+                    },
+                    {
+                      "content": "<strong>Aatmanirbhar Bharat:</strong><br>The Aatmanirbhar Bharat (Self-Reliant India) initiative was launched during the COVID-19 pandemic to boost domestic manufacturing and reduce dependency on imports. It aims to make India a global manufacturing hub and promote entrepreneurship and innovation."
+                    },
+                    {
+                      "content": "<strong>Infrastructure Development:</strong><br>The government's focus on infrastructure development, including the construction of highways, railways, and ports, has improved connectivity and spurred economic growth in various regions of the country."
+                    },
+                    {
+                      "content": "<strong>Healthcare Initiatives:</strong><br>The Ayushman Bharat scheme, often referred to as 'Modicare,' is one of the world's largest government-funded healthcare programs. It provides health insurance to millions of vulnerable families, ensuring access to quality healthcare."
+                    }
+                    ],
+                    "conclusion": "As Prime Minister Narendra Modi celebrates his 73rd birthday, it's essential to acknowledge his remarkable journey and the transformative impact he has had on India. His vision, dedication, and relentless efforts have led to significant strides in various sectors, contributing to the nation's progress. While there may be differing opinions and viewpoints, there's no denying that he has left an indelible mark on the nation's history. As India continues to evolve and face new challenges, Prime Minister Modi's leadership remains a prominent force guiding the nation towards a brighter future. Happy Birthday, Prime Minister Modi!",
+                    "thumbnail": "https://i.postimg.cc/4dWns60H/modianiimage1659424917930.webp",
+                    "tags": ["Politics"],
+                    "date": "Sep 17, 2023",
+                    "images": {},
+                    "isTrending": true,
+                    "meta": {
+                        "title": "Celebrating PM Modi: India's Visionary Leader's Birthday",
+                        "description": "Celebrate Prime Minister Narendra Modi's birthday and explore his remarkable contributions to India's progress and development.",
+                        "keywords": "Narendra Modi, Prime Minister of India, Modi's birthday, Visionary leader, India's development, Contributions to India, Modi's achievements, Governance in India, Economic reforms, Digital India, Make in India, Swachh Bharat Abhiyan, Jan Dhan Yojana, Ayushman Bharat, Aatmanirbhar Bharat, GST, Infrastructure development, Foreign policy, National security, Skill India, Start-up India, Clean energy, Healthcare initiatives, Education reforms, Women empowerment, Rural development, Smart cities, Space exploration, COVID-19 response, Vaccination drive, India's global image, International diplomacy, BJP leader, Political career, Leadership qualities, Economic growth, Swami Vivekananda, Sardar Patel, Mahatma Gandhi, Indian politics, Bharatiya Janata Party, Hindutva, Indian economy, Green initiatives, Skill development, Make India proud, Healthcare for all, Empowering youth, India's future, Inspirational leadership."
+                      }
+                  }
     ]
   }
   
